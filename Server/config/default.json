@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "jwtPrivateKeyisSecret1234",
+  "db": "mongodb://localhost/novartus",
+  "port": "4020",
+  "requiresAuth": true
+}
